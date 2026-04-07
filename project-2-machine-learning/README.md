@@ -1,12 +1,15 @@
 # Project 2 - Machine-learning
 📊 Superstore Profit Prediction & Strategy Optimization
+
 This repository contains a professional end-to-end Machine Learning project focused on predicting profitability and identifying key business drivers using the Superstore Sales dataset.
 
 📂 Data Architecture
+
 The primary dataset is stored in the following directory:
 project-1-data-analysis/data/sales.csv
 
 🚀 The 8-Step Machine Learning Framework
+
 Step 1: Data Acquisition & Robust Loading
 Technical Goal: Handle character encoding and initial cleaning.
 
