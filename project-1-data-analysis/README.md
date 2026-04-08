@@ -45,3 +45,7 @@ Our top customer, **Tamara Chand**, contributed over **$8,981** in net profit. T
 ├── notebooks/
 │   └── sales_data_analysis.ipynb # Full Code & Plots
 └── README.md              # Executive Summary
+
+---
+**Author:** Sahel  
+**Project:** Superstore Analytics Series (Part 1: Data Analysis)
