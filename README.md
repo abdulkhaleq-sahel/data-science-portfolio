@@ -53,6 +53,3 @@ This project is a comprehensive Data Science study conducted on a Retail Sales d
 │   └── 03_AB_Testing.ipynb # Statistical Hypothesis Testing
 └── README.md              # Final Project Report (This file)
 
-## Developed by: Sahel
-
-## Role: Data Analyst / Scientist
