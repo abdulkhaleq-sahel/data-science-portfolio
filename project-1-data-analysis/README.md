@@ -19,7 +19,7 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** on the S
 ## 🛠️ Data Engineering & Cleaning Pipeline
 To ensure 100% data reliability, we executed a multi-stage cleaning process:
 * **Logical Validation:** Removed inconsistent records where `Ship Date` occurred before `Order Date`.
-* **Text Normalization:** Used `.str.strip().str.title()` to unify categorical values (e.g., merging "tehran" and "Tehran").
+* **Text Normalization:** Used `.str.strip().str.title()` to unify categorical values (e.g., merging "altdorf" and "Altdorf").
 * **Postal Standardization:** Fixed numeric postal codes using `.zfill(5)` to preserve leading zeros.
 * **Type Casting:** Converted raw date strings into `datetime` objects for time-series operations.
 * **Integrity Filtering:** Filtered out transactions with non-positive `Sales` or `Quantity`.
